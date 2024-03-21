@@ -3,6 +3,6 @@
 
 <!-- Thông tin -->
 <h1>Thông tin cá nhân<h1>
-<p><h4>Tên: Ngô Tuấn Minh<h4><p>
-<p><h4>MSSV: 208601431<h4><p>
-<p><h4>Ngành: CNTT<h4><p>
+<h4>Tên: Ngô Tuấn Minh<h4>
+<h4>MSSV: 208601431<h4>
+<h4>Ngành: CNTT<h4>
